@@ -40,4 +40,10 @@ int main() {
 
 /*so this is how we print a matrix and adding the columns of the matrix.this program is executed successfully.
 The main advantage of this program is that we can add columns without any particular errors and the execution time is fast.
-An example for real time application:to add total marks of student in a class which is recorded in a spreadsheet-we can simply use this program.*/
+An example for real time application:to add total marks of student in a class which is recorded in a spreadsheet-we can simply use this program.
+
+working of this program:
+-This program gets initialization values from the user.
+-Next we are assigning values to the matrix.
+-And then we are printing the matrix with the given values.
+-And lastly we are are adding colums in matrix.*/
